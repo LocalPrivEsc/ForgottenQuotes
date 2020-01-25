@@ -1,4 +1,4 @@
-# ForgottenQuotes
+<img src="Logo.png" />
 
 ForgottenQuotes is a C# tool to find unquoted service paths
 
